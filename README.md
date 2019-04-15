@@ -24,7 +24,7 @@
 
 The **Outreach Initiative** is a collaborative effort to help people in the Node.js community by introducing consistent workflows around avenues of community engagements like events, content, and open source contributions.
 
-Node.js is emerging as a universal development framework and has grown to a user base of more than **10 million developers**. At the same time, Node users continue to report positive business impact, including improving developer productivity, satisfaction, and a lower cost. Moreover, considering the aggressive competition, the outreach team strives to publicize the work of the Node.js developers in the tech world.
+Node.js is emerging as a universal development framework and has grown to a user base of more than **10 million developers**. At the same time, Node.js users continue to report positive business impact, including improving developer productivity, satisfaction, and a lower cost. Moreover, considering the aggressive competition, the outreach team strives to publicize the work of the Node.js developers in the tech world.
 
 ## 🎯 Initiative Goals
 
