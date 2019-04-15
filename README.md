@@ -48,7 +48,7 @@ Community content goal includes everything related to writing, curating, and sha
 
 ### Community Contributions
 
-Community contributions goal includes building resources for improving the workflow for existing as well as new open source contributors for the Node.js Foundation. Consistent contribution workflow will help attract more community contributions.
+Community contributions goal includes building resources for improving the workflow for both existing and new open source contributors to the Node.js project. Consistent contribution workflow will help attract more community contributions.
 
 > [Discuss the work-in-progress ideas for community contributions here →](https://github.com/nodejs/outreach/issues/9)
 
