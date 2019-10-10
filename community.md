@@ -1,5 +1,13 @@
 # Content for NodeJS Community Webpage
 
+## Introduction
+
+The Node.js Foundation has merged with JS Foundation and become the OpenJS Foundation!
+
+The OpenJS Foundation‘s mission is to enable widespread adoption and help accelerate development of Node.js, related modules, and a wide variety of ecosystem projects through an open governance model that encourages participation, technical contribution, and a framework for long term stewardship by an ecosystem invested in Node.js’ success.
+
+Resource: [NodeJS Foundation About Page](https://foundation.nodejs.org/about)
+
 ## Contributor Covenant Code of Conduct
 
 ### Our Pledge
