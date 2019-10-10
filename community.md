@@ -8,6 +8,11 @@ The OpenJS Foundation‘s mission is to enable widespread adoption and help acce
 
 Resource: [NodeJS Foundation About Page](https://foundation.nodejs.org/about)
 
+## Stats
+
+*This area will show only the stats like number of downloads, GitHub Stars, number of events. [Foundation Page](https://foundation.nodejs.org/) contains some useful stats.*
+
+
 ## Contributor Covenant Code of Conduct
 
 ### Our Pledge
