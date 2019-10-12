@@ -134,4 +134,12 @@ If you are looking for the cool nodejs swags for your events or meetups then you
 
 ## Learning Node
 
+We have free, high-quality resources which anyone can use to start learning NodeJS right away.
+
+* Read NodeJS [documentation](https://nodejs.org/en/docs/) to get an in-depth idea.
+* Visit NodeSchool [Workshoppers](https://nodeschool.io/#workshoppers)
+
+NodeSchool is an unofficial community group that has built out various workshops that you can walk through yourself.
+
+
 ## Stay in Touch
