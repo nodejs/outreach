@@ -126,6 +126,8 @@ The above code of conduct is taken from [NodeJS Foundation Code of Conduct](http
 
 ## News
 
+*All the latest news of the NodeJS community will be posted here.*
+
 ## Community Events
 
 ## Grab Swag
