@@ -124,6 +124,8 @@ The above code of conduct is taken from [NodeJS Foundation Code of Conduct](http
 
 ## Stuck at Somewhere
 
+Because of the level of activity in the `nodejs/node` is so high, we created a separate repo for helping purpose. [Check it out now](https://github.com/nodejs/help/issues). There you'll find a lot questions or requests for general help using NodeJS. If you still can't find the solution to your problem, all you need to do is to open an issue. After that, someone from the NodeJS foundation will contact you on that issue.
+
 ## News
 
 *All the latest news of the NodeJS community will be posted here.*
