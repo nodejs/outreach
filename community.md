@@ -2,15 +2,48 @@
 
 ## Introduction
 
-The Node.js Foundation has merged with JS Foundation and become the OpenJS Foundation!
-
-The OpenJS Foundation‘s mission is to enable widespread adoption and help accelerate development of Node.js, related modules, and a wide variety of ecosystem projects through an open governance model that encourages participation, technical contribution, and a framework for long term stewardship by an ecosystem invested in Node.js’ success.
+The Node.js Foundation has merged with JS Foundation and become the OpenJS Foundation! The OpenJS Foundation‘s mission is to enable widespread adoption and help accelerate development of Node.js, related modules, and a wide variety of ecosystem projects through an open governance model that encourages participation, technical contribution, and a framework for long term stewardship by an ecosystem invested in Node.js’ success.
 
 Resource: [NodeJS Foundation About Page](https://foundation.nodejs.org/about)
 
 ## Stats
 
 *This area will show only the stats like number of downloads, GitHub Stars, number of events. [Foundation Page](https://foundation.nodejs.org/) contains some useful stats.*
+
+## Want to Contribute
+
+There are multiple ways and places you can contribute. You can join our [community committees](https://github.com/nodejs/community-committee) meetings where we discuss issues, new features and all the things that are happening in NodeJS Foundation. If you are interested in participating in the meeting, you can join via Zoom link or you can simply watch the meeting live on [YouTube](https://www.youtube.com/channel/UCQPYJluYC_sn_Qz_XE-YbTQ).
+
+If you think you have found a solution to an existing issue or you have new feature in mind which you want to implement then you can contribute to the core of [NodeJS](https://github.com/nodejs/node). But before doing that please make sure you consult the [NodeJS Contribution Guidelines](https://github.com/nodejs/node/blob/master/CONTRIBUTING.md#pull-requests).
+
+If you are wondering how you can contribute to the core then you should check [Node Todo](https://www.nodetodo.org). Node Todo will help you towards your first contribution.
+
+Think you have found a bug or there is a new feature you have in mind? We would love to hear about it.
+
+### Reporting a Bug
+
+1. You should first update to the most recent master release. It can happen that we may have already fixed your bug.
+
+2. Search for similar issues before opening a new one. Somebody may have already reported it.
+
+3. If you open an issue, make sure to select 🐛 Bug report and then follow the instructions in the template.
+
+4. The NodeJS team will work with you until your issue has been resolved.
+
+To report an issue specific to Node.js, please use [nodejs/node](https://github.com/nodejs/node/issues)
+
+To report an issue specific to nodejs.org website, please use [nodejs/nodejs.org](https://github.com/nodejs/nodejs.org/issues)
+
+### Requesting a feature
+
+1. Update to the latest node version. It can happen that we may have already introduced that feature.
+
+2. Open an [issue](https://github.com/nodejs/node/issues) and then select 🚀 Feature Request. Fill out the template and then select Submit new issue.
+
+
+
+## Stuck at Somewhere
+
 
 
 ## Contributor Covenant Code of Conduct
