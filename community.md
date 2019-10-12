@@ -153,6 +153,8 @@ You need to follow the following format and abide by the following requirements 
 * If you do not currently have a CoC, update the meetup with CoC before submitting.
 * Submit your PR in alphabetical order.
 
+Resource: [NodeJS Meetup](https://nodejs.org/en/get-involved/node-meetups/)
+
 ## Grab Swag
 
 If you are looking for the cool nodejs swags for your events or meetups then your search is over. We have lots of great stuff in our [store](https://store.nodejs.org). Check them out now!
@@ -165,6 +167,8 @@ We have free, high-quality resources which anyone can use to start learning Node
 * Visit NodeSchool [Workshoppers](https://nodeschool.io/#workshoppers)
 
 NodeSchool is an unofficial community group that has built out various workshops that you can walk through yourself.
+
+Resource: [NodeJs Getting Started Repo](https://github.com/nodejs/getting-started)
 
 ## Stay in Touch
 
