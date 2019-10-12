@@ -40,12 +40,6 @@ To report an issue specific to nodejs.org website, please use [nodejs/nodejs.org
 
 2. Open an [issue](https://github.com/nodejs/node/issues) and then select 🚀 Feature Request. Fill out the template and then select Submit new issue.
 
-
-
-## Stuck at Somewhere
-
-
-
 ## Contributor Covenant Code of Conduct
 
 ### Our Pledge
@@ -127,3 +121,17 @@ version 1.4, available at https://www.contributor-covenant.org/version/1/4/
 ### Resource
 
 The above code of conduct is taken from [NodeJS Foundation Code of Conduct](https://github.com/nodejs/admin/blob/master/CODE_OF_CONDUCT.md)
+
+## Stuck at Somewhere
+
+## News
+
+## Community Events
+
+## Grab Swag
+
+If you are looking for the cool nodejs swags for your events or meetups then your search is over. We have lots of great stuff in our [store](https://store.nodejs.org). Check them out now!
+
+## Learning Node
+
+## Stay in Touch
