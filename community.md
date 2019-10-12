@@ -143,5 +143,6 @@ We have free, high-quality resources which anyone can use to start learning Node
 
 NodeSchool is an unofficial community group that has built out various workshops that you can walk through yourself.
 
-
 ## Stay in Touch
+
+Subscribe to the [NodeJS official monthly mailing list](https://us14.campaign-archive.com/home/?u=c7c2e114a827812354112c23b&id=f006b61f29) to get all the latest update related to the NodeJS.
