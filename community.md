@@ -130,6 +130,29 @@ The above code of conduct is taken from [NodeJS Foundation Code of Conduct](http
 
 ## Community Events
 
+NodeJS has a lot meetup groups around the globe. [Click here](https://nodejs.org/en/get-involved/node-meetups/) to check if a meetup is happening around you.
+
+In case you want to have a NodeJS meetup in your country, all you need to do is submit a [pull request](https://github.com/nodejs/nodejs.org).
+
+### Notes for adding meetups
+
+You need to follow the following format and abide by the following requirements in order to arrange a NodeJS meetup in your area.
+
+#### Format
+
+* [Meetup](https://www.meetup.com/pdxnode/)
+* Frequency of meetups
+* How to submit a talk? «list here»
+* Organizer names (if you wish to provide)
+* Organizers contact info (if you wish to provide)
+
+#### Requirements
+
+* Please state in your PR if this meetup abides by Code of Conduct (CoC).
+* Link to CoC for verification.
+* If you do not currently have a CoC, update the meetup with CoC before submitting.
+* Submit your PR in alphabetical order.
+
 ## Grab Swag
 
 If you are looking for the cool nodejs swags for your events or meetups then your search is over. We have lots of great stuff in our [store](https://store.nodejs.org). Check them out now!
