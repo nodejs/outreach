@@ -2,11 +2,11 @@
 
 ## Introduction
 
-NodeJS ranks as the [fourth]((https://www.battery.com/powered/boss-index-tracking-explosive-growth-open-source-software/)) most important open source project according to the Battery Ventures Open Source Software (BOSS) Index. In its earliest times, when NodeJS was still in its initial releases, it became extremely popular. Thousands of developers were using it. With the increasing usage, it became difficult for the NodeJS core team to keep the software up to date with the user requirements. So thus formed the NodeJS foundation in 2015.
+NodeJS is an Open Source software built, used, and maintained by the community. We believe community to be at the core of NodeJS' popularity. Amazing folks from different parts of the world, with a common interest, collaborate and shape this community.
 
-The NodeJS foundation came into existence to support software which had millions of download. At first, only four people were handling most of the work in the NodeJS core. But now it has over a dozen working groups handling this task.
+Everyone is welcomed to be a part of this community. You can find hand picked resources here to learn this technology, but we hope you become a part of this community. And help write the software the way you want it to be.
 
-NodeJS foundation is an Open Source community, and anyone can become a part of it by contributing to its projects. Contribution can be of any type. You can contribute to the documentation, or if you are a developer, you can even contribute to the core of the NodeJS. There is no limit to it.
+On this page, you can find some useful resources to learn this software and be a part of this community.
 
 ## Stats
 
@@ -14,17 +14,19 @@ The following are some of the stats related to NodeJS.
 
 GitHub Stars: [60,000+](https://github.com/nodejs/node)
 
-Downloads: [1 Billion](https://medium.com/@nodejs/more-than-a-billion-downloads-of-node-js-952a8a98eb42)
+Downloads: [1 Billion+](https://medium.com/@nodejs/more-than-a-billion-downloads-of-node-js-952a8a98eb42)
 
-Rank on BOSS index: [4](https://www.battery.com/powered/boss-index-tracking-explosive-growth-open-source-software/)
+Global Meetup Groups: [1600+](https://www.meetup.com/topics/nodejs/)
 
-Global Meetups: [1682](https://www.meetup.com/topics/nodejs/)
+Rank on Battery Ventures Open Source Software (BOSS) index: [4](https://www.battery.com/powered/boss-index-tracking-explosive-growth-open-source-software/)
 
 ## Want to Contribute
 
-NodeJS is an Open Source community, and all kinds of contributions — documentation, bugs reporting, core contribution — are welcomed. Irrespective of the size of the contribution, we encourage you to be a part of this initiative and own this Open Source project. If you miss a feature, request it or maybe help to build it.
+NodeJS is an Open Source community, and all kinds of contributions — documentation, bugs reporting, core contribution — are welcomed. Irrespective of the extent of the contribution, we encourage you to be a part of this initiative and own project.
 
-### Comm Comm
+Below are a few ways you can get involved with the community:
+
+### Community Committee
 
 There are multiple avenues you can use to get involved in the NodeJS foundation. You can join our [community committees](https://github.com/nodejs/community-committee) meetings where we discuss issues, new features, and all the things that are happening in NodeJS Foundation. If you are interested in participating in the meeting, you can join via the Zoom link, or you can simply watch the meeting live on [YouTube](https://www.youtube.com/channel/UCQPYJluYC_sn_Qz_XE-YbTQ).
 
