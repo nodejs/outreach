@@ -101,14 +101,14 @@ Resource: [NodeJS Meetup](https://nodejs.org/en/get-involved/node-meetups/)
 
 ## Grab Swag
 
-If you are looking for the cool nodejs swags for your events or meetups, then your search is over. We have lots of great stuff in our [store](https://store.nodejs.org). Check them out now!
+If you are looking for the cool NodeJS swag items for your events or meetups, then your search is over. We have lots of great stuff in our [store](https://store.nodejs.org). Check them out now!
 
 ## Learning Node
 
 The community has curated some free and high-quality resources for you to get started with NodeJS.
 
 * Read NodeJS [documentation](https://nodejs.org/en/docs/) to get started with the NodeJS with a solid foundation.
-* Visit NodeSchool [Workshoppers](https://nodeschool.io/#workshoppers)
+* Visit NodeSchool [Workshoppers](https://nodeschool.io/#workshoppers).
 
 NodeSchool is an unofficial community group that has built out various workshops that you can walk through yourself.
 
