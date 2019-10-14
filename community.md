@@ -51,7 +51,7 @@ To report an issue specific to nodejs.org website, please use [nodejs/nodejs.org
 
 ## Code of Conduct
 
-Like every other community, NodeJS foundation has also defined some rules which every member needs to follow. [Click here]((https://github.com/nodejs/admin/blob/master/CODE_OF_CONDUCT.md)) to read the Code of Conduct.
+Like every other community, NodeJS foundation has also defined some rules which every member needs to uphold. [Click here](https://github.com/nodejs/outreach/blob/master/CODE_OF_CONDUCT.md) to see the Code of Conduct.
 
 ## Stuck at Somewhere
 
