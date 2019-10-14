@@ -8,7 +8,16 @@ Resource: [NodeJS Foundation About Page](https://foundation.nodejs.org/about)
 
 ## Stats
 
-*This area will show only the stats like number of downloads, GitHub Stars, number of events. [Foundation Page](https://foundation.nodejs.org/) contains some useful stats.*
+Following are some of the stats related to NodeJS.
+
+GitHub Stars: [60,000+](https://github.com/nodejs/node)
+
+Downloads: [1 Billion](https://medium.com/@nodejs/more-than-a-billion-downloads-of-node-js-952a8a98eb42)
+
+Rank on boss index: [4]((https://www.battery.com/powered/boss-index-tracking-explosive-growth-open-source-software/))
+
+Global Meetups: [1682](https://www.meetup.com/topics/nodejs/)
+
 
 ## Want to Contribute
 
