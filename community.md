@@ -28,13 +28,13 @@ Below are a few ways you can get involved with the community:
 
 ### Community Committee
 
-There are multiple avenues you can use to get involved in the NodeJS foundation. You can join our [community committees](https://github.com/nodejs/community-committee) meetings where we discuss issues, new features, and all the things that are happening in NodeJS Foundation. If you are interested in participating in the meeting, you can join via the Zoom link, or you can simply watch the meeting live on [YouTube](https://www.youtube.com/channel/UCQPYJluYC_sn_Qz_XE-YbTQ).
+[Community Committee](https://github.com/nodejs/community-committee) (Comm Comm) is the highest level committee in NodeJS foundation which oversees all the outward facing community outreach efforts. You can join our Comm Comm meetings where we discuss issues, new features, and all the things that are happening in NodeJS Foundation. If you are interested in participating in the meeting, you can join via the Zoom link, or you can simply watch the meeting live on [YouTube](https://www.youtube.com/channel/UCQPYJluYC_sn_Qz_XE-YbTQ).
 
 ### Core Contribution
 
-If you think you have found a solution to an existing issue or you have new feature in mind which you want to implement then you can contribute to the core of [NodeJS](https://github.com/nodejs/node). But before doing that, please make sure you consult the [NodeJS Contribution Guidelines](https://github.com/nodejs/node/blob/master/CONTRIBUTING.md#pull-requests).
+If you want to help by writing code in the form of fixes, features, or an improvement, you can always explore the [NodeJS GitHub Repo](https://github.com/nodejs/node). You may start by taking a look at the issues reported by other people or by helping with the pull requests. But before doing that, please make sure you consult the [NodeJS Contribution Guidelines](https://github.com/nodejs/node/blob/master/CONTRIBUTING.md#pull-requests).
 
-Making your first contribution to the core can be tough. Visit [Node Todo](https://www.nodetodo.org), where you will find all the necessary help you need to make your first contribution.
+If you want to contribute but not sure where to start, take a look at [Node Todo](https://www.nodetodo.org). It's a great guide on getting started with your first contribution.
 
 ### Reporting a Bug
 
@@ -44,25 +44,25 @@ It could happen that you might find some bugs that we missed. That bug might be 
 
 2. Search for similar issues before opening a new one. Somebody may have already reported it.
 
-3. If you open an issue, make sure to select 🐛 Bug report and then follow the instructions in the template.
+3. If you open an issue, make sure to select `🐛 Bug Report` and then follow the instructions in the template.
 
 4. The NodeJS team will work with you until your issue has been resolved.
 
-To report an issue specific to NodeJS, please use [nodejs/node](https://github.com/nodejs/node/issues)
+> To report an issue specific to NodeJS, please use [nodejs/node](https://github.com/nodejs/node/issues) page.
 
-To report an issue specific to nodejs.org website, please use [nodejs/nodejs.org](https://github.com/nodejs/nodejs.org/issues)
+> To report an issue specific to [NodeJS organization website](nodejs.org), please use [nodejs/nodejs.org](https://github.com/nodejs/nodejs.org/issues) page.
 
-### Requesting a feature
+### Requesting a Feature
 
 Think you have some useful features in mind which you want to see implemented in the next versions of NodeJS? We would love to hear about it. You can easily report it to us. Just follow the steps written below.
 
 1. Update to the latest node version. It can happen that we may have already introduced that feature.
 
-2. Open an [issue](https://github.com/nodejs/node/issues) and then select 🚀 Feature Request. Fill out the template and then select Submit new issue.
+2. Open an [issue](https://github.com/nodejs/node/issues) and then select `🚀 Feature Request`. Fill out the template and then select Submit new issue.
 
 ## Code of Conduct
 
-Like every other community, the NodeJS foundation has also defined some rules which every member needs to uphold. [Click here](https://github.com/nodejs/outreach/blob/master/CODE_OF_CONDUCT.md) to see the Code of Conduct.
+This community is committed to upholding the [NodeJS Code of Conduct](https://github.com/nodejs/outreach/blob/master/CODE_OF_CONDUCT.md).
 
 ## Stuck at Somewhere
 
