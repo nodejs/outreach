@@ -18,7 +18,6 @@ Rank on boss index: [4]((https://www.battery.com/powered/boss-index-tracking-exp
 
 Global Meetups: [1682](https://www.meetup.com/topics/nodejs/)
 
-
 ## Want to Contribute
 
 NodeJS is an Open Source community and all kinds of contributions — documentation, bugs reporting, core contribution — are welcomed. Irrespective of the size of the contribution, we encourage you to be a part of this initiative and own this Open Source project. If you miss a feature, request it, or maybe help building it.
@@ -67,7 +66,7 @@ Because of the level of activity in the `nodejs/node` is so high, we created a s
 
 ## Community Events
 
-NodeJS has a lot meetup groups around the globe. [Click here](https://nodejs.org/en/get-involved/node-meetups/) to check if a meetup is happening around you.
+NodeJS has a lot of meetup groups around the globe. [Click here](https://nodejs.org/en/get-involved/node-meetups/) to check if a meetup is happening around you.
 
 In case you want to have a NodeJS meetup in your country, all you need to do is submit a [pull request](https://github.com/nodejs/nodejs.org).
 
