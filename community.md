@@ -10,7 +10,7 @@ NodeJS foundation is an Open Source community, and anyone can become a part of i
 
 ## Stats
 
-Following are some of the stats related to NodeJS.
+The following are some of the stats related to NodeJS.
 
 GitHub Stars: [60,000+](https://github.com/nodejs/node)
 
@@ -22,17 +22,17 @@ Global Meetups: [1682](https://www.meetup.com/topics/nodejs/)
 
 ## Want to Contribute
 
-NodeJS is an Open Source community and all kinds of contributions — documentation, bugs reporting, core contribution — are welcomed. Irrespective of the size of the contribution, we encourage you to be a part of this initiative and own this Open Source project. If you miss a feature, request it, or maybe help building it.
+NodeJS is an Open Source community, and all kinds of contributions — documentation, bugs reporting, core contribution — are welcomed. Irrespective of the size of the contribution, we encourage you to be a part of this initiative and own this Open Source project. If you miss a feature, request it or maybe help to build it.
 
-There are multiple avenues you can use to get involved in the NodeJS foundation. You can join our [community committees](https://github.com/nodejs/community-committee) meetings where we discuss issues, new features and all the things that are happening in NodeJS Foundation. If you are interested in participating in the meeting, you can join via Zoom link or you can simply watch the meeting live on [YouTube](https://www.youtube.com/channel/UCQPYJluYC_sn_Qz_XE-YbTQ).
+There are multiple avenues you can use to get involved in the NodeJS foundation. You can join our [community committees](https://github.com/nodejs/community-committee) meetings where we discuss issues, new features, and all the things that are happening in NodeJS Foundation. If you are interested in participating in the meeting, you can join via the Zoom link, or you can simply watch the meeting live on [YouTube](https://www.youtube.com/channel/UCQPYJluYC_sn_Qz_XE-YbTQ).
 
-If you think you have found a solution to an existing issue or you have new feature in mind which you want to implement then you can contribute to the core of [NodeJS](https://github.com/nodejs/node). But before doing that please make sure you consult the [NodeJS Contribution Guidelines](https://github.com/nodejs/node/blob/master/CONTRIBUTING.md#pull-requests).
+If you think you have found a solution to an existing issue or you have new feature in mind which you want to implement then you can contribute to the core of [NodeJS](https://github.com/nodejs/node). But before doing that, please make sure you consult the [NodeJS Contribution Guidelines](https://github.com/nodejs/node/blob/master/CONTRIBUTING.md#pull-requests).
 
-Making your first contribution to the core can be tough. Visit [Node Todo](https://www.nodetodo.org) where you will find all the necessary help you need to make your first contribution.
+Making your first contribution to the core can be tough. Visit [Node Todo](https://www.nodetodo.org), where you will find all the necessary help you need to make your first contribution.
 
 ### Reporting a Bug
 
-It could happen that you might find some bug that we missed. That bug might be crashing your NodeJS or causing some irregular activities in your project. In this case, you can easily report it to us by following the steps written below.
+It could happen that you might find some bugs that we missed. That bug might be crashing your NodeJS or causing some irregular activities in your project. In this case, you can easily report it to us by following the steps written below.
 
 1. You should first update to the most recent master release. It can happen that we may have already fixed your bug.
 
@@ -42,13 +42,13 @@ It could happen that you might find some bug that we missed. That bug might be c
 
 4. The NodeJS team will work with you until your issue has been resolved.
 
-To report an issue specific to Node.js, please use [nodejs/node](https://github.com/nodejs/node/issues)
+To report an issue specific to NodeJS, please use [nodejs/node](https://github.com/nodejs/node/issues)
 
 To report an issue specific to nodejs.org website, please use [nodejs/nodejs.org](https://github.com/nodejs/nodejs.org/issues)
 
 ### Requesting a feature
 
-Think you have some good feature in mind which you want to see implemented in the next versions of NodeJS? We would love to hear about it. You can easily report it to us. Just follow the steps written below.
+Think you have some useful features in mind which you want to see implemented in the next versions of NodeJS? We would love to hear about it. You can easily report it to us. Just follow the steps written below.
 
 1. Update to the latest node version. It can happen that we may have already introduced that feature.
 
@@ -56,11 +56,11 @@ Think you have some good feature in mind which you want to see implemented in th
 
 ## Code of Conduct
 
-Like every other community, NodeJS foundation has also defined some rules which every member needs to uphold. [Click here](https://github.com/nodejs/outreach/blob/master/CODE_OF_CONDUCT.md) to see the Code of Conduct.
+Like every other community, the NodeJS foundation has also defined some rules which every member needs to uphold. [Click here](https://github.com/nodejs/outreach/blob/master/CODE_OF_CONDUCT.md) to see the Code of Conduct.
 
 ## Stuck at Somewhere
 
-Because of the level of activity in the `nodejs/node` is so high, we created a separate repo for helping purpose. [Check it out now](https://github.com/nodejs/help/issues). There you'll find a lot questions or requests for general help using NodeJS. If you still can't find the solution to your problem, all you need to do is to open an issue. After that, someone from the NodeJS foundation will contact you on that issue.
+Because of the level of activity in the `nodejs/node` is so high, we created a separate repo for helping purpose. [Check it out now](https://github.com/nodejs/help/issues). There you'll find a lot of questions or requests for general help using NodeJS. If you still can't find the solution to your problem, all you need to do is to open an issue. After that, someone from the NodeJS foundation will contact you on that issue.
 
 ## News
 
@@ -74,7 +74,7 @@ In case you want to have a NodeJS meetup in your country, all you need to do is 
 
 ### Notes for adding meetups
 
-You need to follow the following format and abide by the following requirements in order to arrange a NodeJS meetup in your area.
+You need to follow the following format and abide by the following requirements to arrange a NodeJS meetup in your area.
 
 #### Format
 
@@ -88,18 +88,18 @@ You need to follow the following format and abide by the following requirements 
 
 * Please state in your PR if this meetup abides by Code of Conduct (CoC).
 * Link to CoC for verification.
-* If you do not currently have a CoC, update the meetup with CoC before submitting.
+* If you do not currently have a CoC, update the meetup with CoC before submitting it.
 * Submit your PR in alphabetical order.
 
 Resource: [NodeJS Meetup](https://nodejs.org/en/get-involved/node-meetups/)
 
 ## Grab Swag
 
-If you are looking for the cool nodejs swags for your events or meetups then your search is over. We have lots of great stuff in our [store](https://store.nodejs.org). Check them out now!
+If you are looking for the cool nodejs swags for your events or meetups, then your search is over. We have lots of great stuff in our [store](https://store.nodejs.org). Check them out now!
 
 ## Learning Node
 
-Community has curated some free and high quality resources for you to get started with NodeJS.
+The community has curated some free and high-quality resources for you to get started with NodeJS.
 
 * Read NodeJS [documentation](https://nodejs.org/en/docs/) to get started with the NodeJS with a solid foundation.
 * Visit NodeSchool [Workshoppers](https://nodeschool.io/#workshoppers)
