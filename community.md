@@ -2,7 +2,11 @@
 
 ## Introduction
 
+NodeJS ranks as the [fourth]((https://www.battery.com/powered/boss-index-tracking-explosive-growth-open-source-software/)) most important open source project according to the Battery Ventures Open Source Software (BOSS) Index. In its earliest times, when NodeJS was still in its initial releases, it became extremely popular. Thousands of developers were using it. With the increasing usage, it became difficult for the NodeJS core team to keep the software up to date with the user requirements. So thus formed the NodeJS foundation in 2015.
 
+The NodeJS foundation came into existence to support software which had millions of download. At first, only four people were handling most of the work in the NodeJS core. But now it has over a dozen working groups handling this task.
+
+NodeJS foundation is an Open Source community, and anyone can become a part of it by contributing to its projects. Contribution can be of any type. You can contribute to the documentation, or if you are a developer, you can even contribute to the core of the NodeJS. There is no limit to it.
 
 ## Stats
 
@@ -12,7 +16,7 @@ GitHub Stars: [60,000+](https://github.com/nodejs/node)
 
 Downloads: [1 Billion](https://medium.com/@nodejs/more-than-a-billion-downloads-of-node-js-952a8a98eb42)
 
-Rank on BOSS index: [4]((https://www.battery.com/powered/boss-index-tracking-explosive-growth-open-source-software/))
+Rank on BOSS index: [4](https://www.battery.com/powered/boss-index-tracking-explosive-growth-open-source-software/)
 
 Global Meetups: [1682](https://www.meetup.com/topics/nodejs/)
 
