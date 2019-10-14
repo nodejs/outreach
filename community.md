@@ -21,15 +21,17 @@ Global Meetups: [1682](https://www.meetup.com/topics/nodejs/)
 
 ## Want to Contribute
 
-There are multiple ways and places you can contribute. You can join our [community committees](https://github.com/nodejs/community-committee) meetings where we discuss issues, new features and all the things that are happening in NodeJS Foundation. If you are interested in participating in the meeting, you can join via Zoom link or you can simply watch the meeting live on [YouTube](https://www.youtube.com/channel/UCQPYJluYC_sn_Qz_XE-YbTQ).
+NodeJS is an Open Source community and all kinds of contributions — documentation, bugs reporting, core contribution — are welcomed. Irrespective of the size of the contribution, we encourage you to be a part of this initiative and own this Open Source project. If you miss a feature, request it, or maybe help building it.
+
+There are multiple avenues you can use to get involved in the NodeJS foundation. You can join our [community committees](https://github.com/nodejs/community-committee) meetings where we discuss issues, new features and all the things that are happening in NodeJS Foundation. If you are interested in participating in the meeting, you can join via Zoom link or you can simply watch the meeting live on [YouTube](https://www.youtube.com/channel/UCQPYJluYC_sn_Qz_XE-YbTQ).
 
 If you think you have found a solution to an existing issue or you have new feature in mind which you want to implement then you can contribute to the core of [NodeJS](https://github.com/nodejs/node). But before doing that please make sure you consult the [NodeJS Contribution Guidelines](https://github.com/nodejs/node/blob/master/CONTRIBUTING.md#pull-requests).
 
-If you are wondering how you can contribute to the core then you should check [Node Todo](https://www.nodetodo.org). Node Todo will help you towards your first contribution.
-
-Think you have found a bug or there is a new feature you have in mind? We would love to hear about it.
+Making your first contribution to the core can be tough. Visit [Node Todo](https://www.nodetodo.org) where you will find all the necessary help you need to make your first contribution.
 
 ### Reporting a Bug
+
+It could happen that you might find some bug that we missed. That bug might be crashing your NodeJS or causing some irregular activities in your project. In this case, you can easily report it to us by following the steps written below.
 
 1. You should first update to the most recent master release. It can happen that we may have already fixed your bug.
 
@@ -44,6 +46,8 @@ To report an issue specific to Node.js, please use [nodejs/node](https://github.
 To report an issue specific to nodejs.org website, please use [nodejs/nodejs.org](https://github.com/nodejs/nodejs.org/issues)
 
 ### Requesting a feature
+
+Think you have some good feature in mind which you want to see implemented in the next versions of NodeJS? We would love to hear about it. You can easily report it to us. Just follow the steps written below.
 
 1. Update to the latest node version. It can happen that we may have already introduced that feature.
 
