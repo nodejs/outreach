@@ -24,7 +24,11 @@ Global Meetups: [1682](https://www.meetup.com/topics/nodejs/)
 
 NodeJS is an Open Source community, and all kinds of contributions — documentation, bugs reporting, core contribution — are welcomed. Irrespective of the size of the contribution, we encourage you to be a part of this initiative and own this Open Source project. If you miss a feature, request it or maybe help to build it.
 
+### Comm Comm
+
 There are multiple avenues you can use to get involved in the NodeJS foundation. You can join our [community committees](https://github.com/nodejs/community-committee) meetings where we discuss issues, new features, and all the things that are happening in NodeJS Foundation. If you are interested in participating in the meeting, you can join via the Zoom link, or you can simply watch the meeting live on [YouTube](https://www.youtube.com/channel/UCQPYJluYC_sn_Qz_XE-YbTQ).
+
+### Core Contribution
 
 If you think you have found a solution to an existing issue or you have new feature in mind which you want to implement then you can contribute to the core of [NodeJS](https://github.com/nodejs/node). But before doing that, please make sure you consult the [NodeJS Contribution Guidelines](https://github.com/nodejs/node/blob/master/CONTRIBUTING.md#pull-requests).
 
