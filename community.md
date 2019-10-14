@@ -2,9 +2,7 @@
 
 ## Introduction
 
-The Node.js Foundation has merged with JS Foundation and become the OpenJS Foundation! The OpenJS Foundation‘s mission is to enable widespread adoption and help accelerate development of Node.js, related modules, and a wide variety of ecosystem projects through an open governance model that encourages participation, technical contribution, and a framework for long term stewardship by an ecosystem invested in Node.js’ success.
 
-Resource: [NodeJS Foundation About Page](https://foundation.nodejs.org/about)
 
 ## Stats
 
@@ -14,7 +12,7 @@ GitHub Stars: [60,000+](https://github.com/nodejs/node)
 
 Downloads: [1 Billion](https://medium.com/@nodejs/more-than-a-billion-downloads-of-node-js-952a8a98eb42)
 
-Rank on boss index: [4]((https://www.battery.com/powered/boss-index-tracking-explosive-growth-open-source-software/))
+Rank on BOSS index: [4]((https://www.battery.com/powered/boss-index-tracking-explosive-growth-open-source-software/))
 
 Global Meetups: [1682](https://www.meetup.com/topics/nodejs/)
 
