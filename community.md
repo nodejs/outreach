@@ -10,15 +10,15 @@ Node.js foundation is an open source community, and anyone can become a part of 
 
 ## Code of Conduct
 
-Like every other community, the Node.js foundation has also defined some rules which every member needs to uphold. These rules are there to avoid any kind of misconduct and harassment.
+In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
-[Read the full code of conduct](https://github.com/nodejs/outreach/blob/master/CODE_OF_CONDUCT.md)
+[Read the full code of conduct →](https://github.com/nodejs/admin/blob/master/CODE_OF_CONDUCT.md)
 
-## Want to Contribute
+## Ways to Contribute
 
-Node.js is an Open Source community, and all kinds of contributions — documentation, bugs reporting, core contribution — are welcomed. Irrespective of the size of the contribution, we encourage you to be a part of this initiative and own this Open Source project. If you miss a feature, request it or maybe help to build it.
+Node.js is an Open Source community and welcomes all kinds of contributions — documentation, bugs reporting, core contribution. Irrespective of the extent of the contribution, we encourage you to be a part of this initiative and own this Open Source project. If you miss a feature, request it, or maybe help to build it.
 
-- [Comm Comm Meetings](https://github.com/nodejs/community-committee)
+- [Community Committee Meetings](https://github.com/nodejs/community-committee)
 
 - [Core Contributions](https://github.com/nodejs/node)
 
@@ -27,37 +27,34 @@ Node.js is an Open Source community, and all kinds of contributions — document
 - [Requesting a feature](https://github.com/nodejs/node/issues)
 
 
-## Node.js news
+## Node.js News
 
 ### Stay in Touch
 
-Subscribe to the [NodeJS official monthly mailing list](https://us14.campaign-archive.com/home/?u=c7c2e114a827812354112c23b&id=f006b61f29) to get all the latest update related to the NodeJS.
+Subscribe to the [Node.js official monthly mailing list](https://us14.campaign-archive.com/home/?u=c7c2e114a827812354112c23b&id=f006b61f29) to get all the latest update related to the NodeJS.
 
 ### Twitter
 
-For the exciting news about the Node.js, [follow @nodejs on twitter](https://twitter.com/nodejs).
+For updates about the Node.js, follow [@nodejs](https://twitter.com/nodejs)  on Twitter.
 
-## Stuck at Somewhere
+## Where to Get Support
 
 ### Node.js Help Repository
 
-Because of the level of activity in the `nodejs/node` is so high, we created a separate repo for helping purpose. [Check it out now](https://github.com/nodejs/help/issues). There you'll find a lot of questions or requests for general help using Node.js. If you still can't find the solution to your problem, all you need to do is to open an issue. After that, someone from the Node.js foundation will contact you on that issue.
+Node.js has a dedicated [repository on GitHub](https://github.com/nodejs/help) to help you with your issues. If you are facing a problem, feel free to create an issue, or go through the already answered questions to seek help.
 
 ### Stack Overflow
 
-Millions of developers are using Node.js on a regular basis. We have a huge community of developers on Stack Overflow where they have answered thousands of questions related to Node.js.
+Mostly, community members prefer to ask questions at Stack Overflow. You can also ask questions there by using `node.js` tag or go through [already answered questions](https://stackoverflow.com/tags/node.js) for help.
 
-Read through the [existing questions](https://stackoverflow.com/tags/node.js) tagged with `node.js` or [ask your own](https://stackoverflow.com/questions/ask?tags=nodejs).
+### DEV Community
 
-### Dev Community
+DEV community is a great place to share and learn about Node.js. You can go through exisiting articles tagged with [#node](https://dev.to/t/node) to learn about Node.js or asked any question.
 
-Dev community is another great place to ask question related to Node.js. You can also read some informative articles there related Node.js. Hit here to read through the [existing question and posts](https://dev.to/t/node) tagged with node. You can also [ask for help](https://dev.to/new/help) or [write a post](https://dev.to/new/node) with the node tag.
-
-## Learning Node
+## Learn More About Node.js:
 
 The community has curated some free and high-quality resources for you to get started with Node.js.
 
-* Read Node.js [documentation](https://nodejs.org/en/docs/) to get started with the Node.js with a solid foundation.
-* Visit NodeSchool [Workshoppers](https://nodeschool.io/#workshoppers)
-
-NodeSchool is an unofficial community group that has built out various workshops that you can walk through yourself.
+* [Nodejs.dev](https://nodejs.dev/) 
+* [Node.js documentation](https://nodejs.org/en/docs/) 
+* [NodeSchool Workshoppers](https://nodeschool.io/#workshoppers)
