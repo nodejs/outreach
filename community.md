@@ -2,11 +2,11 @@
 
 ## Introduction
 
-Node.js ranks as the [fourth]((https://www.battery.com/powered/boss-index-tracking-explosive-growth-open-source-software/)) most important open source project according to the Battery Ventures Open Source Software (BOSS) Index. In its earliest times, when Node.js was still in its initial releases, it became extremely popular. Thousands of developers were using it. With the increasing usage, it became difficult for the Node.js core team to keep the software up to date with the user requirements. So thus formed the Node.js foundation in 2015.
+NodeJS is an open source software built, used, and maintained by the community. We believe community to be at the core of NodeJS' popularity. Amazing folks from different parts of the world, with a common interest, collaborate and shape this community.
 
-The Node.js foundation came into existence to support software which had millions of download. At first, only four people were handling most of the work in the Node.js core. But now it has over a dozen working groups handling this task.
+In its earliest times, when Node.js was still in its initial releases, it became extremely popular. Thousands of developers were using it. With the increasing usage, it became difficult for the Node.js core team to keep the software up to date with the user requirements. So thus formed the Node.js foundation in 2015.
 
-Node.js foundation is an Open Source community, and anyone can become a part of it by contributing to its projects. Contribution can be of any type. You can contribute to the documentation, or if you are a developer, you can even contribute to the core of the Node.js. There is no limit to it.
+Node.js foundation is an open source community, and anyone can become a part of it by contributing to its projects. Open source doesn’t always have the best reputation for being friendly and welcoming, and that makes us sad. Everyone belongs in open source, and Node.js foundation is dedicated to making you feel welcome.
 
 ## Code of Conduct
 
@@ -61,5 +61,3 @@ The community has curated some free and high-quality resources for you to get st
 * Visit NodeSchool [Workshoppers](https://nodeschool.io/#workshoppers)
 
 NodeSchool is an unofficial community group that has built out various workshops that you can walk through yourself.
-
-Resource: [NodeJs Getting Started Repo](https://github.com/nodejs/getting-started)
