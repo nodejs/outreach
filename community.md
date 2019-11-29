@@ -1,8 +1,8 @@
-# Content for NodeJS Community Webpage
+# Content for Node.js Community Webpage
 
 ## Introduction
 
-NodeJS is an open source software built, used, and maintained by the community. We believe community to be at the core of NodeJS' popularity. Amazing folks from different parts of the world, with a common interest, collaborate and shape this community.
+Node.js is an open source software built, used, and maintained by the community. We believe community to be at the core of NodeJS' popularity. Amazing folks from different parts of the world, with a common interest, collaborate and shape this community.
 
 In its earliest times, when Node.js was still in its initial releases, it became extremely popular. Thousands of developers were using it. With the increasing usage, it became difficult for the Node.js core team to keep the software up to date with the user requirements. So thus formed the Node.js foundation in 2015.
 
@@ -16,7 +16,7 @@ In the interest of fostering an open and welcoming environment, we as contributo
 
 ## Ways to Contribute
 
-Node.js is an Open Source community and welcomes all kinds of contributions — documentation, bugs reporting, core contribution. Irrespective of the extent of the contribution, we encourage you to be a part of this initiative and own this Open Source project. If you miss a feature, request it, or maybe help to build it.
+We welcomes all kinds of contributions — documentation, bugs reporting, core contribution. Irrespective of the extent of the contribution, we encourage you to be a part of this initiative and own this Open Source project. If you miss a feature, request it, or maybe help to build it.
 
 - [Community Committee Meetings](https://github.com/nodejs/community-committee)
 
@@ -31,7 +31,7 @@ Node.js is an Open Source community and welcomes all kinds of contributions — 
 
 ### Stay in Touch
 
-Subscribe to the [Node.js official monthly mailing list](https://us14.campaign-archive.com/home/?u=c7c2e114a827812354112c23b&id=f006b61f29) to get all the latest update related to the NodeJS.
+Subscribe to the [Node.js official monthly mailing list](https://us14.campaign-archive.com/home/?u=c7c2e114a827812354112c23b&id=f006b61f29) to get all the latest update related to the Node.js.
 
 ### Twitter
 
@@ -55,6 +55,6 @@ DEV community is a great place to share and learn about Node.js. You can go thro
 
 The community has curated some free and high-quality resources for you to get started with Node.js.
 
-* [Nodejs.dev](https://nodejs.dev/) 
-* [Node.js documentation](https://nodejs.org/en/docs/) 
+* [Nodejs.dev](https://nodejs.dev/)
+* [Node.js documentation](https://nodejs.org/en/docs/)
 * [NodeSchool Workshoppers](https://nodeschool.io/#workshoppers)
