@@ -5,7 +5,7 @@
   </a>
 </p>
 
-<h1 align="center"><a href="https://node.js.dev"> Outreach Initiative</a></h1>
+<h1 align="center"><a href="https://nodejs.dev"> Outreach Initiative</a></h1>
 
 <p align="center">The Outreach Initiative is aimed to provide help, guidance, and spotlight to the Node.js community.</p>
 
