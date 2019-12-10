@@ -2,11 +2,11 @@
 
 ## Introduction
 
-Node.js is an open source software built, used, and maintained by the community. We believe community to be at the core of NodeJS' popularity. Amazing folks from different parts of the world, with a common interest, collaborate and shape this community.
+Node.js is an open source software built, used, and maintained by the community. We believe community to be at the core of Node.js popularity. Amazing folks from different parts of the world, with a common interest, collaborate and shape this community.
 
-In its earliest times, when Node.js was still in its initial releases, it became extremely popular. Thousands of developers were using it. With the increasing usage, it became difficult for the Node.js core team to keep the software up to date with the user requirements. So thus formed the Node.js foundation in 2015.
+In its early days, when Node.js was still in its initial releases, it became extremely popular. Thousands of developers were using it. With the increasing usage, it became difficult for the Node.js core team to keep the software up to date with the user requirements. So thus formed the Node.js foundation in 2015.
 
-Node.js foundation is an open source community, and anyone can become a part of it by contributing to its projects. Open source doesn’t always have the best reputation for being friendly and welcoming, and that makes us sad. Everyone belongs in open source, and Node.js foundation is dedicated to making you feel welcome.
+Node.js foundation is an open source community, and anyone can become a part of it by contributing to its projects. Community outreach is an initiative under the umbrella of Node.js foundation to connect with the Node.js community. We know, open source doesn’t always have the best reputation for being friendly and welcoming, and that makes us sad. Everyone belongs in open source, and Node.js foundation is dedicated to making you feel welcome.
 
 ## Code of Conduct
 
@@ -16,7 +16,7 @@ In the interest of fostering an open and welcoming environment, we as contributo
 
 ## Ways to Contribute
 
-We welcomes all kinds of contributions — documentation, bugs reporting, core contribution. Irrespective of the extent of the contribution, we encourage you to be a part of this initiative and own this Open Source project. If you miss a feature, request it, or maybe help to build it.
+We welcomes all kinds of contributions — documentation, bugs reporting, core contribution. Irrespective of the extent of the contribution, we encourage you to be a part of this initiative and own this open source project. If you miss a feature, request it, or maybe help to build it.
 
 - [Community Committee Meetings](https://github.com/nodejs/community-committee)
 
@@ -49,7 +49,7 @@ Mostly, community members prefer to ask questions at Stack Overflow. You can als
 
 ### DEV Community
 
-DEV community is a great place to share and learn about Node.js. You can go through exisiting articles tagged with [#node](https://dev.to/t/node) to learn about Node.js or asked any question.
+DEV community is a great place to share and learn about Node.js. You can go through existing articles tagged with [#node](https://dev.to/t/node) to learn about Node.js or ask any question.
 
 ## Learn More About Node.js:
 
