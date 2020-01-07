@@ -4,7 +4,6 @@
 
 Node.js has one of the largest, most vibrant and innovative open source communities in the world. Node.js is built, used, and maintained by the community. We believe the community to be at the core of Node.js popularity. Amazing people from every part of the world, with a common interest, collaborate and shape this community.
 
-In its early days, when Node.js was still in its initial releases, it became extremely popular. Thousands of developers were using it. With the increasing usage, it became difficult for the Node.js core team to keep the software up to date with the user requirements. So thus formed the Node.js foundation in 2015.
 
 Node.js foundation is an open source community, and anyone can become a part of it by contributing to its projects. Community outreach is an initiative under the umbrella of Node.js foundation to connect with the Node.js community. We know, open source doesn’t always have the best reputation for being friendly and welcoming, and that makes us sad. Everyone belongs in open source, and Node.js foundation is dedicated to making you feel welcome.
 
