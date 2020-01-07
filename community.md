@@ -5,8 +5,7 @@
 Node.js has one of the largest, most vibrant and innovative open source communities in the world. Node.js is built, used, and maintained by the community. We believe the community to be at the core of Node.js popularity. Amazing people from every part of the world, with a common interest, collaborate and shape this community.
 
 
-
-## Code of Conduct
+## Node.js Contributor Covenant Code of Conduct
 
 In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
@@ -14,26 +13,23 @@ In the interest of fostering an open and welcoming environment, we as contributo
 
 ## Ways to Contribute
 
-We welcomes all kinds of contributions — documentation, bugs reporting, core contribution. Irrespective of the extent of the contribution, we encourage you to be a part of this initiative and own this open source project. If you miss a feature, request it, or maybe help to build it.
-
-- [Community Committee Meetings](https://github.com/nodejs/community-committee)
+We welcome all kinds of contributions — documentation, bugs reporting, core contribution. Irrespective of the extent of the contribution, we encourage you to be a part of Node.js. If you miss a feature, request it, or maybe help build it.
 
 - [Core Contributions](https://github.com/nodejs/node)
-
 - [Reporting a Bug](https://github.com/nodejs/node/issues)
-
 - [Requesting a feature](https://github.com/nodejs/node/issues)
+- [Community Committee](https://github.com/nodejs/community-committee)
 
 
 ## Node.js News
 
 ### Stay in Touch
 
-Subscribe to the [Node.js official monthly mailing list](https://us14.campaign-archive.com/home/?u=c7c2e114a827812354112c23b&id=f006b61f29) to get all the latest update related to the Node.js.
+Subscribe to the [Node.js monthly mailing list](https://us14.campaign-archive.com/home/?u=c7c2e114a827812354112c23b&id=f006b61f29) to get all the latest updates related to the Node.js.
 
 ### Twitter
 
-For updates about the Node.js, follow [@nodejs](https://twitter.com/nodejs)  on Twitter.
+For social updates, [follow @Nodejs on Twitter](https://twitter.com/nodejs).
 
 ## Where to Get Support
 
@@ -43,15 +39,13 @@ Node.js has a dedicated [repository on GitHub](https://github.com/nodejs/help) t
 
 ### Stack Overflow
 
-Mostly, community members prefer to ask questions at Stack Overflow. You can also ask questions there by using `node.js` tag or go through [already answered questions](https://stackoverflow.com/tags/node.js) for help.
+Many community members prefer to use Stack Overflow to ask questions. You can browse the [existing questions](https://stackoverflow.com/questions/tagged/node.js) tagged `node.js` or [ask your own](https://stackoverflow.com/questions/ask?tags=node.js).
 
 ### DEV Community
 
-DEV community is a great place to share and learn about Node.js. You can go through existing articles tagged with [#node](https://dev.to/t/node) to learn about Node.js or ask any question.
+DEV Community is an excellent platform to ask questions and share your knowledge of Node.js. Read through the [existing questions and posts](https://dev.to/t/node) tagged with `node` or [ask for help](https://dev.to/new/help). You could also [write your post](https://dev.to/new/node) with the `node` tag.
 
 ## Learn More About Node.js:
-
-The community has curated some free and high-quality resources for you to get started with Node.js.
 
 * [Nodejs.dev](https://nodejs.dev/)
 * [Node.js documentation](https://nodejs.org/en/docs/)
