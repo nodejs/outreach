@@ -1,4 +1,4 @@
-# Content for Node.js Community Webpage
+# Node.js Community
 
 ## Introduction
 
