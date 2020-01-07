@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Node.js is an open source software built, used, and maintained by the community. We believe community to be at the core of Node.js popularity. Amazing folks from different parts of the world, with a common interest, collaborate and shape this community.
+Node.js has one of the largest, most vibrant and innovative open source communities in the world. Node.js is built, used, and maintained by the community. We believe the community to be at the core of Node.js popularity. Amazing people from every part of the world, with a common interest, collaborate and shape this community.
 
 In its early days, when Node.js was still in its initial releases, it became extremely popular. Thousands of developers were using it. With the increasing usage, it became difficult for the Node.js core team to keep the software up to date with the user requirements. So thus formed the Node.js foundation in 2015.
 
